@@ -1,0 +1,26 @@
+.li{
+    list-style-type: none;
+    justify-content: space-around;
+    display: flex;
+    cursor: pointer;
+}
+.li:hover{
+    cursor: pointer;
+    list-style-type: none;
+    justify-content: space-around;
+    display: contents;
+    color:aqua;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 29px;
+    padding-bottom: 24px;
+    font-size: 24px;
+    border: 1px solid;
+}
+ul{
+    display: contents;
+    list-style-type: none;
+}

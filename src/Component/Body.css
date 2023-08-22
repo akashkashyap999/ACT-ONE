@@ -1,0 +1,100 @@
+.h1{
+    display: flex;
+    justify-content: center;
+
+}
+.ak1{
+    width: 100%;
+}
+.h3{
+    display: flex;
+    justify-content: center;
+
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    font-size: 43px;
+    padding-bottom: 15px;
+    padding-top: 33px;
+}
+.text-img{
+    display: flex;
+}
+.text-imgs{    display: flex;
+    height: 193px;
+    padding-left: 30%;
+    /* padding-bottom: 15px; */
+}
+
+.image{
+    display: flex;
+    padding-left: 28%;
+    padding-bottom: 35px;
+}
+.images{
+    display: flex;
+    width: 40%;
+}
+.picture{
+    width: 24%;
+}
+.span{
+    background-color: skyblue;
+}
+.ak{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.span-text{
+    display: flex;
+    justify-content: space-evenly;
+    width: 47%;
+    padding-left: 25%;
+}
+.span-text.spans.p{
+  padding-right: 75px;
+}
+.text-img2{
+    justify-content: center;
+    padding-left: 22%;
+    display: flex;
+    /* justify-content: center; */
+    /* display: flex; */
+    width: 55%;
+    padding-left: 22%;
+
+}
+.start{
+    display: grid;
+    border: 2px solid whitesmoke;
+}
+.yourself{
+    display: grid;
+    border: 2px solid whitesmoke;
+    margin-left: 10px;
+
+    
+}
+.see{
+    background-color: skyblue;
+    border-radius: 10px;
+    height: 34px;
+    width: 139px;
+    cursor: pointer;
+}
+.see:hover{
+ background-color: pink;
+}
+.seeall{
+    margin: 18px;
+    display: flex;
+    justify-content: center;
+}
+.read{
+    display: flex;
+    text-decoration: underline;
+    cursor: pointer;
+}
